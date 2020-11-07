@@ -1,0 +1,19 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: comic sans ms;
+  margin: 2em;
+  background-color: #ffe8b2;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  color: 	#e07b39;
+  
+}
+
+h2 {
+  font-style: bold;
+  color: #b97455;
+}
